@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/941075178372848319/49eb01b5000840db8d1d7c7e15ace630/artifacts
+end_time: 1750106659566
+entry_point_name: ''
+experiment_id: '941075178372848319'
+lifecycle_stage: active
+run_id: 49eb01b5000840db8d1d7c7e15ace630
+run_name: dashing-snipe-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750106650078
+status: 3
+tags: []
+user_id: abhij

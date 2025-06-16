@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/941075178372848319/b61c643f04604d349714026e50a80382/artifacts
+end_time: 1750079987611
+entry_point_name: ''
+experiment_id: '941075178372848319'
+lifecycle_stage: active
+run_id: b61c643f04604d349714026e50a80382
+run_name: rare-kite-931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750079980737
+status: 3
+tags: []
+user_id: abhij

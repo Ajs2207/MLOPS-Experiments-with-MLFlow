@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/941075178372848319/108d005d44c8474eabbd114d28f37f5d/artifacts
+end_time: 1750076242479
+entry_point_name: ''
+experiment_id: '941075178372848319'
+lifecycle_stage: active
+run_id: 108d005d44c8474eabbd114d28f37f5d
+run_name: resilient-lynx-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750076242195
+status: 3
+tags: []
+user_id: abhij

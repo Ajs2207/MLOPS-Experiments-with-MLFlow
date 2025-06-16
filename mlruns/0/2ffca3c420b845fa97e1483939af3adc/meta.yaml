@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2ffca3c420b845fa97e1483939af3adc/artifacts
+end_time: 1750073208184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ffca3c420b845fa97e1483939af3adc
+run_name: clumsy-finch-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750073208138
+status: 3
+tags: []
+user_id: abhij
