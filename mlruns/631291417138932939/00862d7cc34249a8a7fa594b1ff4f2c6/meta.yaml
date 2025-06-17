@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abhij/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/631291417138932939/00862d7cc34249a8a7fa594b1ff4f2c6/artifacts
+end_time: 1750191067860
+entry_point_name: ''
+experiment_id: '631291417138932939'
+lifecycle_stage: active
+run_id: 00862d7cc34249a8a7fa594b1ff4f2c6
+run_name: orderly-stork-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750191067808
+status: 3
+tags: []
+user_id: abhij

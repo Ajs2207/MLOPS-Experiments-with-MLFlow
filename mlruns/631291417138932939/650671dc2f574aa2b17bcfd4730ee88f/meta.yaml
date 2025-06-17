@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abhij/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/631291417138932939/650671dc2f574aa2b17bcfd4730ee88f/artifacts
+end_time: 1750191067342
+entry_point_name: ''
+experiment_id: '631291417138932939'
+lifecycle_stage: active
+run_id: 650671dc2f574aa2b17bcfd4730ee88f
+run_name: nimble-chimp-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750191067286
+status: 3
+tags: []
+user_id: abhij

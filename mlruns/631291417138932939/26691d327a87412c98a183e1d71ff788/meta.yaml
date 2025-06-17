@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abhij/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/631291417138932939/26691d327a87412c98a183e1d71ff788/artifacts
+end_time: 1750191067571
+entry_point_name: ''
+experiment_id: '631291417138932939'
+lifecycle_stage: active
+run_id: 26691d327a87412c98a183e1d71ff788
+run_name: luminous-tern-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750191067520
+status: 3
+tags: []
+user_id: abhij

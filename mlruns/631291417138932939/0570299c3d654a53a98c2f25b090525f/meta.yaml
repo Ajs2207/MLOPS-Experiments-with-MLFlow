@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abhij/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/631291417138932939/0570299c3d654a53a98c2f25b090525f/artifacts
+end_time: 1750191067228
+entry_point_name: ''
+experiment_id: '631291417138932939'
+lifecycle_stage: active
+run_id: 0570299c3d654a53a98c2f25b090525f
+run_name: blushing-gnat-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750191067164
+status: 3
+tags: []
+user_id: abhij

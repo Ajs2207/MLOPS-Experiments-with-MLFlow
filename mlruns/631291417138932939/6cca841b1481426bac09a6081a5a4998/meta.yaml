@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abhij/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/631291417138932939/6cca841b1481426bac09a6081a5a4998/artifacts
+end_time: 1750190502451
+entry_point_name: ''
+experiment_id: '631291417138932939'
+lifecycle_stage: active
+run_id: 6cca841b1481426bac09a6081a5a4998
+run_name: enchanting-perch-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750190488155
+status: 3
+tags: []
+user_id: abhij

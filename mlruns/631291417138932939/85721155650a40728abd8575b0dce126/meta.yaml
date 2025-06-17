@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abhij/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/631291417138932939/85721155650a40728abd8575b0dce126/artifacts
+end_time: 1750191067746
+entry_point_name: ''
+experiment_id: '631291417138932939'
+lifecycle_stage: active
+run_id: 85721155650a40728abd8575b0dce126
+run_name: languid-goose-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750191067694
+status: 3
+tags: []
+user_id: abhij

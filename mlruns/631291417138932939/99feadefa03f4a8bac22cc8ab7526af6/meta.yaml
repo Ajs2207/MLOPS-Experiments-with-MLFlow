@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abhij/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/631291417138932939/99feadefa03f4a8bac22cc8ab7526af6/artifacts
+end_time: 1750191067393
+entry_point_name: ''
+experiment_id: '631291417138932939'
+lifecycle_stage: active
+run_id: 99feadefa03f4a8bac22cc8ab7526af6
+run_name: adorable-turtle-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750191067343
+status: 3
+tags: []
+user_id: abhij

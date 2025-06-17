@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abhij/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/631291417138932939/4ca5ce5dee564b199160eda44bda583d/artifacts
+end_time: 1750191067281
+entry_point_name: ''
+experiment_id: '631291417138932939'
+lifecycle_stage: active
+run_id: 4ca5ce5dee564b199160eda44bda583d
+run_name: treasured-goat-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750191067232
+status: 3
+tags: []
+user_id: abhij

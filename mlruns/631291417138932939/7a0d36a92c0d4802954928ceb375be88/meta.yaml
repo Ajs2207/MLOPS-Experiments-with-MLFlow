@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abhij/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/631291417138932939/7a0d36a92c0d4802954928ceb375be88/artifacts
+end_time: 1750191077210
+entry_point_name: ''
+experiment_id: '631291417138932939'
+lifecycle_stage: active
+run_id: 7a0d36a92c0d4802954928ceb375be88
+run_name: youthful-penguin-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750191064440
+status: 3
+tags: []
+user_id: abhij

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abhij/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/631291417138932939/3c2800d432e54f64b66bb3791d58dfee/artifacts
+end_time: 1750191067690
+entry_point_name: ''
+experiment_id: '631291417138932939'
+lifecycle_stage: active
+run_id: 3c2800d432e54f64b66bb3791d58dfee
+run_name: selective-goose-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750191067635
+status: 3
+tags: []
+user_id: abhij

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abhij/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/631291417138932939/a6c50578f7154ed1946679c51afd41c0/artifacts
+end_time: 1750191067458
+entry_point_name: ''
+experiment_id: '631291417138932939'
+lifecycle_stage: active
+run_id: a6c50578f7154ed1946679c51afd41c0
+run_name: dazzling-pug-553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750191067393
+status: 3
+tags: []
+user_id: abhij

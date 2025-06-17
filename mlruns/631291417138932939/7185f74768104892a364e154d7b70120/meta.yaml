@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhij/Desktop/MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/631291417138932939/7185f74768104892a364e154d7b70120/artifacts
+deleted_time: 1750191037886
+end_time: 1750190852802
+entry_point_name: ''
+experiment_id: '631291417138932939'
+lifecycle_stage: deleted
+run_id: 7185f74768104892a364e154d7b70120
+run_name: skittish-yak-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750190850012
+status: 4
+tags: []
+user_id: abhij
